@@ -1,0 +1,12 @@
+.local.env
+
+.DS_Store
+Thumbs.db
+
+*.log
+*.tmp
+tmp/
+temp/
+
+.idea/
+.vscode/
